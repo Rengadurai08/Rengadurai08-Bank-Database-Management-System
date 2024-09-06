@@ -1,0 +1,4 @@
+Account_ID,Customer_ID,Account_Type,IFSC_code,Account_balance,Date_Opened
+2,2,Checking,SBIN0000874,22000.00,2022-04-15
+3,3,Savings,ICIC0000104,18000.00,2024-06-01
+4,4,Checking,UTIB0001235,30000.00,2023-09-15

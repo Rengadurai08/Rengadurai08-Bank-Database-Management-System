@@ -1,0 +1,3 @@
+Customer_ID,First_Name,Last_Name,Date_Of_Birth,Gender,Address,City,State,Postal_code,Country,Phone_Number,Email,Date_Joined
+1,Roronoa,Zoro,1990-11-11,Male,"123 Shimotsuki Village","East Blue",JAPAN,123-4567,JAPAN,1234567890,onigiri.zoro@gmail.com,2023-01-15
+2,"Cat Burglar",Nami,1985-08-20,Female,"456 Cocoyasi Village","East Blue",Texas,900-7801,USA,1325478691,nami.thunderbolt@gmail.com,2022-03-10
