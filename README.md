@@ -3,6 +3,8 @@
 
 💻Project Title:Bank Management System
 
+![Firefly Bank-Database-Management-System 29873](https://github.com/user-attachments/assets/c45ae71a-4c77-4c30-97ab-19e496f3549d)
+
 Description:
 This repository showcases a basic bank management system built using SQL. It demonstrates the creation and manipulation of relational databases, including:
 Tables:
